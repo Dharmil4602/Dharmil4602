@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning Web Development In Detail
-- I'm a Pre-Final Year Computer Engineering Student From College A D PATEL INSTITUTE OF TECHNOLOGY.
+- I'm a Final Year Computer Engineering Student From College A D PATEL INSTITUTE OF TECHNOLOGY.
 
 <!--
 <h1 align="center">Hi There 👋, My Name Is Dharmil Shah</h1>
