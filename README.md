@@ -28,8 +28,8 @@ Here are some ideas to get you started:
   <h2>LinkedIn Profile</h2>
   <a href="https://www.linkedin.com/in/dharmil-shah-a2a0b4188/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 
-  <!-- <h2>Coding Profiles</h2>
-  <a href="https://auth.geeksforgeeks.org/user/dharmilshah476/practice/" ><img margin="0 15px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" on /></a> <a href="https://www.codechef.com/users/dharmil4602"><img margin="0 15px" width="44px" height="44px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" /></a> -->
+  <h2>Coding Profiles</h2>
+  <a href="https://auth.geeksforgeeks.org/user/dharmilshah476/practice/" ><img margin="0 15px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" on /></a> <a href="https://www.codechef.com/users/dharmil4602"><img margin="0 15px" width="44px" height="44px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" /></a> 
   
 
   <!--<div style="float: right;">
