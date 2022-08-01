@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h2 align="center">Welcome To My Github Profile</h2>
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dharmil4602&label=Profile%20views&color=0e75b6&style=flat" alt="pushpakumari5117" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dharmil4602&label=Profile%20views&color=0e75b6&style=flat" alt="Dharmil4602" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dharmil4602)](https://github.com/Dharmil4602/github-profile-trophy)
 
