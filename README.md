@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
   <h2>Coding Profiles</h2>
   <a href="https://auth.geeksforgeeks.org/user/dharmilshah476/practice/" ><img margin="0 15px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" on /></a>   <a href="https://www.codechef.com/users/dharmil4602"><img margin="0 15px" width="44px" height="44px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" /></a>
-  <a href="https://www.leetcode.com/dharmil4602" target="a _blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmil4602" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/dharmil4602" target="a _blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmil4602" height="30" width="40" /></a>
   
 
   <!--<div style="float: right;">
