@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil4602&theme=algolia" alt="Dharmil4602" /></p>
 
+## ⚡ Recent GitHub Activity
+<a href="https://github.com/Dharmil4602"><img alt="Dharmil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dharmil4602&custom_title=Dharmil Shah's%20Contribution%20Graph&theme=react-dark" /></a>
 
 ## Languages
 <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/python.png" />
