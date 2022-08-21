@@ -31,12 +31,12 @@ Here are some ideas to get you started:
   <h2>Coding Profiles</h2>
   <a href="https://auth.geeksforgeeks.org/user/dharmilshah476/practice/" ><img margin="0 15px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" on /></a>   <a href="https://www.codechef.com/users/dharmil4602"><img margin="0 15px" width="44px" height="44px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" /></a>
   <a href="https://www.leetcode.com/dharmil4602" target="a _blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmil4602" height="30" width="40" /></a>
-  <br>
 
   <!--<div style="float: right;">
     <img width="500px" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" alt="" />
   </div>-->
-
+ <br>
+  <br>
 ![Dharmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharmil4602&show_icons=true&theme=radical)
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil4602&theme=algolia" alt="Dharmil4602" /></p>
