@@ -36,6 +36,8 @@ Here are some ideas to get you started:
     <img width="500px" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" alt="" />
   </div>-->
 
+## 🔥 Streak Stats & Languages
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil4602&theme=algolia" alt="Dharmil4602" /></p>
 
 
 ## Languages
