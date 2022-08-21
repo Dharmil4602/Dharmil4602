@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <!--<div style="float: right;">
     <img width="500px" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" alt="" />
   </div>-->
- <br>
   <br>
 ![Dharmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharmil4602&show_icons=true&theme=radical)
 ## 🔥 Streak Stats & Languages
