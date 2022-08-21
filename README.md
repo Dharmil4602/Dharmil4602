@@ -37,6 +37,7 @@ Here are some ideas to get you started:
     <img width="500px" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" alt="" />
   </div>-->
 
+![Dharmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharmil4602&show_icons=true&theme=radical)
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil4602&theme=algolia" alt="Dharmil4602" /></p>
 
@@ -53,5 +54,3 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/cute-clipart/50/000000/react-native.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmil4602&layout=compact)](https://github.com/Dharmil4602/)
-
-![Dharmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharmil4602&show_icons=true&theme=radical)
