@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmil4602&theme=algolia" alt="Dharmil4602" /></p>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/Dharmil4602/github-readme-activity-graph"><img alt="Dharmill's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dharmil4602&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Dharmil4602/github-readme-activity-graph"><img alt="Dharmill's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dharmil4602&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Dharmil's Activity Graph"/></a>
 
 ![Dharmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharmil4602&show_icons=true&theme=radical)
 
