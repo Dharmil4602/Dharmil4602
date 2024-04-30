@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning Web Development In Detail
-- I'm a Final Year Computer Engineering Student From College A D PATEL INSTITUTE OF TECHNOLOGY.
+- 🔭 Full Stack Developer
+- 🌱 Exploring new technologies
+- Master's student at Dalhousie University.
 
 <!--
 <h1 align="center">Hi There 👋, My Name Is Dharmil Shah</h1>
