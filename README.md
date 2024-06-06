@@ -64,14 +64,30 @@ A scalable blog platform using AWS services.
 <a href="https://www.leetcode.com/dharmil4602"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharmil4602" height="30" width="40" /></a>
 
 ## 🛠 Languages & Tools
-
-<img src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img src="https://img.icons8.com/color/48/000000/python.png" />
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" />
-<img src="https://img.icons8.com/plasticine/48/000000/react.png" />
-<img src="https://img.icons8.com/cute-clipart/50/000000/react-native.png" />
+<p>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img src="https://img.icons8.com/plasticine/48/000000/react.png" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" />
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" />
+  <img src="https://img.icons8.com/cute-clipart/50/000000/react-native.png" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" />
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" />
+</p>
+</p>
 
 <p align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmil4602&layout=compact)](https://github.com/Dharmil4602/)
