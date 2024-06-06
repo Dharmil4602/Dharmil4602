@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - **Databases:** MySQL, NoSQL
 - **Testing:** TDD, JUnit, Jest
 
-## 🛠️ Projects
+## 🛠️ Key Projects
 
 ### [Code Quality Report Analyzer](https://github.com/Dharmil4602/code-quality-report-analyzer)
 A tool for analyzing and visualizing code quality metrics.
